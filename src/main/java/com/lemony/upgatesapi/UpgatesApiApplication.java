@@ -11,10 +11,10 @@ public class UpgatesApiApplication extends SpringBootServletInitializer {
 	// if on server uncomment
 
 //	// extends SpringBootServletInitializer
-	@Override
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application){
-		return application.sources(UpgatesApiApplication.class);
-	}
+//	@Override
+//	protected SpringApplicationBuilder configure(SpringApplicationBuilder application){
+//		return application.sources(UpgatesApiApplication.class);
+//	}
 
 
 	public static void main(String[] args) {
